@@ -1,6 +1,7 @@
 # Instagram Clone
 
-![Mockup](https://user-images.githubusercontent.com/84329916/139715358-8c7cf0b5-f29f-455b-8635-ad3eb20470c5.jpg)
+![Mockup](https://user-images.githubusercontent.com/84329916/139717287-3a6f43b5-7423-43c9-b18c-6585f99bd477.png)
+
 
 
 This is an Instagram Clone using React Native, Expo and Firebase.
