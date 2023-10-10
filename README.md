@@ -1,4 +1,4 @@
-# Instagram Clone
+# React Native Instagram Clone
 
 ![Mockup](https://user-images.githubusercontent.com/84329916/139717287-3a6f43b5-7423-43c9-b18c-6585f99bd477.png)
 
@@ -36,4 +36,4 @@ https://user-images.githubusercontent.com/84329916/139713513-afbb70d9-ba4b-40ed-
 
 
 
-*Special thanks to SimCoder for his amazing tutorials on coding apps like this one. If you wanna learn new technologies like Firebase in my case, I highly recommend you to go to is [YouTube Channel](https://www.youtube.com/c/SimpleCoder).*
+*Special thanks to SimCoder for his amazing tutorials on coding apps like this one. If you wanna learn new technologies like Firebase in my case, I highly recommend you to go to his [YouTube Channel](https://www.youtube.com/c/SimpleCoder).*
